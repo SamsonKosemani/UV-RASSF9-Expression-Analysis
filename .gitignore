@@ -1,0 +1,12 @@
+# Data files
+data/raw/
+data/processed/
+
+# Results
+results/
+
+# Environment and temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
