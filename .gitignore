@@ -10,3 +10,7 @@ results/
 Thumbs.db
 *.tmp
 *.temp
+# Backup files
+*backup*
+*~
+*.bak
